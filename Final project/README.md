@@ -39,6 +39,7 @@ https://drive.google.com/file/d/1aVBut_XjjW1njEAFeILu-NC6DRK4rxv-/view
 
 ### Статистические, экономические и демографические данные по субъектам Российской Федерации, полученные из открытых источников:
 https://budget.permkrai.ru/
+
 https://tochno.st/
 
 ### Полный набор файлов содержится в папке [data/social_russia_data/] 
