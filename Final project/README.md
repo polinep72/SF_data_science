@@ -40,6 +40,8 @@ https://budget.permkrai.ru/
 
 https://tochno.st/
 
+https://docs.edu.gov.ru/document/17bc19963749a7f29e59d09c0c7e6faa/
+
 ### Полный набор файлов содержится в папке [data/social_russia_data/] 
 
 Более подробное описание дается при компиляции данных в части 1 настоящего проекта
